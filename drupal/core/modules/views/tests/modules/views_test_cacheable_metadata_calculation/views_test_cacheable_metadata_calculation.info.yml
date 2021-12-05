@@ -1,0 +1,12 @@
+name: 'Views test cacheable metadata calculation'
+type: module
+description: 'Module to test cacheable metadata calculation in Views.'
+package: Testing
+# version: VERSION
+dependencies:
+  - drupal:views
+
+# Information added by Drupal.org packaging script on 2021-11-24
+version: '9.2.10'
+project: 'drupal'
+datestamp: 1637765604

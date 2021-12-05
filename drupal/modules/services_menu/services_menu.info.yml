@@ -1,0 +1,17 @@
+name: 'Services Menu'
+description: 'Services Menu'
+package: Services
+core: 8.x
+core_version_requirement: ^8 || ^9
+dependencies:
+  - rest
+  - restui
+# version: 8.x-1.0
+# project: services_menu
+# datestamp: '1324989090'
+type: module
+
+# Information added by Drupal.org packaging script on 2020-07-18
+version: '2.0.0'
+project: 'services_menu'
+datestamp: 1595064526
